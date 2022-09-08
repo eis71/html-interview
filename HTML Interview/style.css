@@ -1,0 +1,23 @@
+body {
+    background-image: url('images/UgandanKnuckles.jpeg');
+}
+
+.taco {
+    border: 10px solid #1d1ddb;
+    padding: 25px;
+    text-shadow: 1px 1px;
+    background-color: #4caf50;
+}
+
+.burrito {
+    font-style: italic;
+    margin: 10px;
+}
+
+#brad {
+    border-radius: 50px;
+}
+
+#john {
+    border-radius: 50px;
+}
